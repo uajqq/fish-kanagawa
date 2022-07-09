@@ -1,0 +1,14 @@
+#+title: README
+#+description: Instruction to install fish-gruvbox dark theme for fish shell
+#+author: Touhidul Shawan
+
+** Installation
+*** Fisher
+#+begin_src bash
+fisher install touhidulshawan/fish-gruvbox
+#+end_src
+
+*** Oh My Fish
+#+begin_src bash
+omf install touhidulshawan/fish-gruvbox
+#+end_src
