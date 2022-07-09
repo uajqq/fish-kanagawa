@@ -1,14 +1,14 @@
 # Gruvbox Color Palette
-set -l foreground a89984
+set -l foreground ebdbb2
 set -l selection 282828 
 set -l comment 928374 
 set -l red cc241d
 set -l orange fe8019
 set -l yellow d79921
-set -l green 98971a
+set -l green b8bb26
 set -l cyan 689d6a
 set -l blue 458588
-set -l purple d3869b
+set -l purple b16286
 
 # Syntax Highlighting Colors
 set -g fish_color_normal $foreground
